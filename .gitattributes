@@ -1,0 +1,7 @@
+* text=auto eol=lf
+
+*.sql   text eol=lf
+*.par   text eol=lf
+*.md    text eol=lf
+*.sample text eol=lf
+*.sh    text eol=lf

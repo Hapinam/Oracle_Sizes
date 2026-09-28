@@ -1,0 +1,23 @@
+# SQL*Plus and Oracle client output
+*.lst
+*.log
+*.trc
+*.aud
+*.dmp
+afiedt.buf
+
+# credentials and environment specific files that must never be committed
+*.ora.local
+*.pwd
+wallet/
+tnsnames.ora
+listener.ora
+sqlnet.ora
+orapw*
+
+# editor and OS noise
+*~
+*.swp
+.DS_Store
+.idea/
+.vscode/
